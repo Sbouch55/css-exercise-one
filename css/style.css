@@ -82,15 +82,11 @@ h3 {
   font-size: 1.3em;
 }
 
-.element {
-  background-color: green;
-  height: 100px;
-  margin: 10px 0;
-  width: 100%;
-}
-
 .elementt {
   background-color: purple;
+}
+
+.element {
   height: 100px;
   margin: 10px 0;
   width: 100%;
